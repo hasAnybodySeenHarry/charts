@@ -3,9 +3,9 @@ entries:
   throttler:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-27T17:26:23.997678383Z"
+    created: "2024-12-27T17:37:01.796542076Z"
     description: A Helm chart for deploying the throttler service
-    digest: 18555fb116395e46a3edcd0f704142deae7568694dab7e843b6277921418fdb6
+    digest: b2b7c196ddf708a3ba28c3ab88a9c6aeb81af511b1189fd37d5521379169ab8e
     home: https://github.com/hasAnybodySeenHarry/throttler
     name: throttler
     sources:
@@ -27,4 +27,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/hasAnybodySeenHarry/services/main/apps/throttler-1.0.0.tgz
     version: 1.0.0
-generated: "2024-12-27T17:26:23.997074774Z"
+generated: "2024-12-27T17:37:01.795915347Z"

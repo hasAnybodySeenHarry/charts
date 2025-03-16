@@ -14,19 +14,6 @@ entries:
     urls:
     - https://raw.githubusercontent.com/hasAnybodySeenHarry/services/main/apps/secret-rotator-1.0.0.tgz
     version: 1.0.0
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2025-03-16T23:27:26.945995156Z"
-    description: A Helm chart for deploying the MCSO secret-rotator operator
-    digest: 41c8e6ffd6fb7f71b39627cb9c919d49929529c8f185fa65cd2510f55f993f42
-    home: https://github.com/hasAnybodySeenHarry/secret-rotator
-    name: secret-rotator
-    sources:
-    - https://github.com/hasAnybodySeenHarry/secret-rotator
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/hasAnybodySeenHarry/services/main/apps/secret-rotator-0.0.tgz
-    version: "0.0"
   throttler:
   - apiVersion: v2
     appVersion: 1.0.0

@@ -3,6 +3,19 @@ entries:
   secret-rotator:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2025-03-16T23:35:18.214290376Z"
+    description: A Helm chart for deploying the MCSO secret-rotator operator
+    digest: ac9f150e5fa674b3353611f67cb589a4ac0ba52702acf5f0ca5af589ed4834de
+    home: https://github.com/hasAnybodySeenHarry/secret-rotator
+    name: secret-rotator
+    sources:
+    - https://github.com/hasAnybodySeenHarry/secret-rotator
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/hasAnybodySeenHarry/services/main/apps/secret-rotator-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2025-03-16T23:27:26.945995156Z"
     description: A Helm chart for deploying the MCSO secret-rotator operator
     digest: 41c8e6ffd6fb7f71b39627cb9c919d49929529c8f185fa65cd2510f55f993f42
@@ -54,4 +67,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/hasAnybodySeenHarry/services/main/apps/throttler-1.0.0.tgz
     version: 1.0.0
-generated: "2025-03-16T23:27:26.944983502Z"
+generated: "2025-03-16T23:35:18.213784972Z"

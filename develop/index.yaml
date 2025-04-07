@@ -17,9 +17,9 @@ entries:
   msi-aws:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-04-06T14:05:16.44997866Z"
+    created: "2025-04-07T00:30:49.851533109Z"
     description: A Helm chart for deploying the MCSO's SMI plugin for AWS
-    digest: 35157cb36a1cc2acd34b1e724a01d0c502bf6e420f7af834174cddace5efa09e
+    digest: 5fcd07272ca9e4a82e5ceb8b3f6ce733ea01223acb553e562398f1e9c6c13f71
     home: https://github.com/hasAnybodySeenHarry/msi-aws
     name: msi-aws
     sources:
@@ -28,4 +28,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/hasAnybodySeenHarry/charts/main/apps/msi-aws-1.0.0.tgz
     version: 1.0.0
-generated: "2025-04-07T00:12:06.922299239Z"
+generated: "2025-04-07T00:30:49.8511286Z"

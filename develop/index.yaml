@@ -3,9 +3,9 @@ entries:
   mcso:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-04-07T00:12:06.922870381Z"
+    created: "2025-04-09T23:48:28.820644244Z"
     description: A Helm chart for deploying the MCSO secret-rotator operator
-    digest: bb63dcff58bdddabd39650e9d6b9fd82771997dcd7f31d2a5d4638a2844bbe3e
+    digest: d2803105d807221667d44fd909427e85227b21bacf8926268c7ec1483067dea5
     home: https://github.com/hasAnybodySeenHarry/secret-rotator
     name: mcso
     sources:
@@ -28,4 +28,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/hasAnybodySeenHarry/charts/main/apps/msi-aws-1.0.0.tgz
     version: 1.0.0
-generated: "2025-04-09T23:36:37.433239785Z"
+generated: "2025-04-09T23:48:28.820130295Z"

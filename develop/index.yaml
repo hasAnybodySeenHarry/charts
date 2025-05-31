@@ -30,6 +30,19 @@ entries:
   mii-aws:
   - apiVersion: v2
     appVersion: 1.1.0
+    created: "2025-05-31T12:41:10.58965622Z"
+    description: A Helm chart for deploying the MCSO's MII plugin for AWS
+    digest: 178049a0ed46cd0ed4ebcf7e13308c87ceb73aa4e116aad181db2d5ec9a69923
+    home: https://github.com/hasAnybodySeenHarry/mii-aws
+    name: mii-aws
+    sources:
+    - https://github.com/hasAnybodySeenHarry/mii-aws
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/hasAnybodySeenHarry/charts/main/apps/mii-aws-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v2
+    appVersion: 1.1.0
     created: "2025-05-31T11:32:21.774343326Z"
     description: A Helm chart for deploying the MCSO's MII plugin for AWS
     digest: 87bad2dd4191cd746f8e98af9e5733b61b43078673d9d538223f063222d0d7b8
@@ -81,4 +94,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/hasAnybodySeenHarry/charts/main/apps/msi-aws-1.0.0.tgz
     version: 1.0.0
-generated: "2025-05-31T12:15:49.568808398Z"
+generated: "2025-05-31T12:41:10.589225706Z"

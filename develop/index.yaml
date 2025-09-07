@@ -148,6 +148,20 @@ entries:
     urls:
     - https://raw.githubusercontent.com/hasAnybodySeenHarry/charts/main/apps/msi-aws-1.0.0.tgz
     version: 1.0.0
+  notifier:
+  - apiVersion: v2
+    appVersion: 1.0.1
+    created: "2025-09-07T23:11:34.83692985Z"
+    description: A Helm chart for deploying the notifier service
+    digest: a183e2760532fe684310f9032f8c687d05c571b2b573d338760253ffc3762f18
+    home: https://github.com/hasAnybodySeenHarry/notifier
+    name: notifier
+    sources:
+    - https://github.com/hasAnybodySeenHarry/notifier
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/hasAnybodySeenHarry/charts/main/apps/notifier-0.0.tgz
+    version: "0.0"
   throttler:
   - apiVersion: v2
     appVersion: 1.0.0
@@ -162,4 +176,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/hasAnybodySeenHarry/charts/main/apps/throttler-1.0.4.tgz
     version: 1.0.4
-generated: "2025-09-07T23:02:40.496886952Z"
+generated: "2025-09-07T23:11:34.836204274Z"

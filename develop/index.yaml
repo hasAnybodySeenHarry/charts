@@ -1,5 +1,19 @@
 apiVersion: v1
 entries:
+  expenses:
+  - apiVersion: v2
+    appVersion: 1.0.2
+    created: "2025-09-07T23:02:40.497677045Z"
+    description: A Helm chart for deploying the expenses service
+    digest: 5b66b7e7bd132632a7e8f780c55185105f40b02649ee0d4b0c21cb02f7b3bb2b
+    home: https://github.com/hasAnybodySeenHarry/expenses
+    name: expenses
+    sources:
+    - https://github.com/hasAnybodySeenHarry/expenses
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/hasAnybodySeenHarry/charts/main/apps/expenses-0.0.tgz
+    version: "0.0"
   mailer:
   - apiVersion: v2
     appVersion: 1.0.0
@@ -148,4 +162,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/hasAnybodySeenHarry/charts/main/apps/throttler-1.0.4.tgz
     version: 1.0.4
-generated: "2025-08-29T12:47:14.634193639Z"
+generated: "2025-09-07T23:02:40.496886952Z"

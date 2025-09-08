@@ -151,9 +151,9 @@ entries:
   notifier:
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2025-09-07T23:11:34.83692985Z"
+    created: "2025-09-08T16:50:20.621035878Z"
     description: A Helm chart for deploying the notifier service
-    digest: a183e2760532fe684310f9032f8c687d05c571b2b573d338760253ffc3762f18
+    digest: 4ce501acaba9310f91036ae262ca4af086c528b43388d30f9a83704badacc0b2
     home: https://github.com/hasAnybodySeenHarry/notifier
     name: notifier
     sources:
@@ -176,4 +176,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/hasAnybodySeenHarry/charts/main/apps/throttler-1.0.4.tgz
     version: 1.0.4
-generated: "2025-09-08T16:47:41.960362505Z"
+generated: "2025-09-08T16:50:20.620295087Z"

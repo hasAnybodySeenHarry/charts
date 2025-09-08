@@ -17,9 +17,9 @@ entries:
   mailer:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-07-15T08:24:09.441495589Z"
+    created: "2025-09-08T16:56:40.143934276Z"
     description: A Helm chart for deploying the mailer service
-    digest: 2095b1e32a5b5db5da9a8cfc2e3e9528d6398ac1dbf6d60448625f459bbff838
+    digest: 6e8f9109d52d58267e5fbb18dbee39b19d4066ea420d7b3c30027454dc247a37
     home: https://github.com/hasAnybodySeenHarry/mailer
     name: mailer
     sources:
@@ -176,4 +176,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/hasAnybodySeenHarry/charts/main/apps/throttler-1.0.4.tgz
     version: 1.0.4
-generated: "2025-09-08T16:50:20.620295087Z"
+generated: "2025-09-08T16:56:40.143376215Z"
